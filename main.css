@@ -1,0 +1,54 @@
+section
+{
+    border-width: 15px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+#paragraph1, #paragraph2
+{
+    border-width: 5px;
+    border-bottom-style: solid;
+}
+
+#border__dotted
+{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: aqua;
+}
+
+#border__inset
+{
+    border-style: inset;
+    border-width: 5px;
+    border-color: darkgray;
+}
+
+#border__crimson
+{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: crimson;
+}
+
+img
+{
+    border-radius: 100%;
+    width: 200px;
+  /*   height: 200px; */
+    aspect-ratio: 1/1;
+}
+
+#user-info
+{
+    border-bottom-style: solid;
+}
+
+button
+{
+    border: none;
+    border-radius: 5px;
+    background-color: chocolate;
+}
+
